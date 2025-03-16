@@ -1,3 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
-https://tv.bdixtv24.live/toffee/live.php?cid=sonymax_2&chunks=5de4a53b197354c94f992c736bc66e2700307548ce4e9ea2c1e3edca4dcbc67f1194174244d267569fdb0a8c3d88e14fb1a1981f2f9d7843bf02a4662343ab2e5fc40553fb8bcd1f13ddafc6761d49da56643942fd962f90ce19220c357cc09e
+http://live.phenixiptv.com/live/live:.cid.651406f830eed3072/df3cHkaUue/14813.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://live.phenixiptv.com/live/live:.cid.651406f830eed3072/df3cHkaUue/14813.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://live.phenixiptv.com/live/live:.cid.651406f830eed3072/df3cHkaUue/14813.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://live.phenixiptv.com/live/live:.cid.651406f830eed3072/df3cHkaUue/14813.m3u8
